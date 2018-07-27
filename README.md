@@ -1,4 +1,4 @@
-# skeleton-explorer-dapp
+# AICrypto Skeleton Explorer Decentralized Application
 AICrypto Skeleton Explorer Contract (MVP)
 
 It will contain sequentially
