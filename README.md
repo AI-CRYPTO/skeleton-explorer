@@ -2,7 +2,7 @@
 AICrypto Skeleton Explorer Contract (MVP)
 
 It will contain
-- Search AI Assets
+- Search AI assets
 - AI easy builder
 - Resource Grid Allocator
 - Clustered training
